@@ -5,8 +5,8 @@ Welcome to the Hacktoberfest open-source contribution hosted by MindsDB, in coll
 ## Contribution Guidelines
 
 1. **Issue Links**: To get started, please choose an issue from our list of open issues that you would like to work on. You can find the list of issues here:
-   - [Issue 1](https://github.com/mindsdb/mindsdb/contribute)
-   - [Issue 2](https://github.com/mindsdb/mindsdb/issues?q=is%3Aopen+is%3Aissue+label%3Aapp-integration)
+   - [Easy Issues](https://github.com/mindsdb/mindsdb/contribute)
+   - [Medium-Hard Issues](https://github.com/mindsdb/mindsdb/issues?q=is%3Aopen+is%3Aissue+label%3Aapp-integration)
 
 2. **Claim an Issue**: Leave a comment on the chosen issue, indicating that you are interested in working on it. This helps prevent duplicate work and lets others know that the issue is being actively addressed.
 
