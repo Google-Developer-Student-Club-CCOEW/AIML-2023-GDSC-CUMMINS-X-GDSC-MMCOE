@@ -63,8 +63,8 @@ git commit -m "<your_commit_message>"
 git push origin <branch-name>
 ```
 
-8. Create a [Pull Request/PR]  
-🛠 (https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
+8. 🛠 Create a [Pull Request/PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
+
 
 9. Additional Steps (**IMPORTANT**) <br>
 If you are contributing to any of the following repositories: <br>
