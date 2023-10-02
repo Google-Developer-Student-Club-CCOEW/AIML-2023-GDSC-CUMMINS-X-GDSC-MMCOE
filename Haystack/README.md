@@ -6,9 +6,9 @@ Welcome to the Hacktoberfest open-source contribution hosted by Haystack, in col
 
 1. **Issue Links**: To get started, please choose an issue from our list of open issues that you would like to work on. You can find the list of issues below:
 
-   - [Issue 1](https://github.com/deepset-ai/haystack/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
-   - [Issue 2](https://github.com/deepset-ai/haystack/issues?q=is%3Aopen+is%3Aissue+label%3AP2)
-   - [Issue 3](https://github.com/deepset-ai/haystack/issues?q=is%3Aopen+is%3Aissue+label%3AP1)
+   - [Easy Issues](https://github.com/deepset-ai/haystack/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+   - [Medium Issues](https://github.com/deepset-ai/haystack/issues?q=is%3Aopen+is%3Aissue+label%3AP2)
+   - [Hard Issue](https://github.com/deepset-ai/haystack/issues?q=is%3Aopen+is%3Aissue+label%3AP1)
 
 2. **Claim an Issue**: Leave a comment on the chosen issue, indicating that you are interested in working on it. This helps prevent duplicate work and lets others know that the issue is being actively addressed.
 
