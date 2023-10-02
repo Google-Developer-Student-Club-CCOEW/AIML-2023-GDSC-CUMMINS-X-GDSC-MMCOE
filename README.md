@@ -2,6 +2,8 @@
 
 ![hacto](https://github.com/Google-Developer-Student-Club-CCOEW/Competitive-Programming-2023/assets/56436897/c430bbf2-5b14-40bf-8e91-748b629c766b)
 
+## Get Help
+If you have any doubt regarding how to contribution or anything else feel free to join our [community](https://chat.whatsapp.com/GHBVGGn3WdMCBCzeRvqdVZ) and ask there!
 
 ## Contributing to this Repo
 
@@ -18,7 +20,7 @@ git clone https://github.com/<your-github-username>/project_name.git
 
 ***bash***
 ```
-cd Flutter
+cd <folder-name>
 ```
 
 4. Creating a new branch (IMP) 🌱
@@ -64,4 +66,15 @@ git push origin <branch-name>
 8. Create a [Pull Request/PR]  
 🛠 (https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
 
-9. ***Congratulations!***  🎉 Sit and relax, you've made your contribution to the AIML repository of GDSC Cummins under Hacktoberfest 2023.  🌟
+9. Additional Steps (**IMPORTANT**) <br>
+If you are contributing to any of the following repositories: <br>
+[Haystack](https://github.com/Google-Developer-Student-Club-CCOEW/AIML-2023-GDSC-CUMMINS-X-GDSC-MMCOE/tree/main/Haystack) <br>
+   [Hugging Face Hub](https://github.com/Google-Developer-Student-Club-CCOEW/AIML-2023-GDSC-CUMMINS-X-GDSC-MMCOE/tree/main/HuggingFace_Hub) <br>
+   [ML Algorithms](https://github.com/Google-Developer-Student-Club-CCOEW/AIML-2023-GDSC-CUMMINS-X-GDSC-MMCOE/tree/main/ML%20Algorithms) <br>
+   [Matplotlib](https://github.com/Google-Developer-Student-Club-CCOEW/AIML-2023-GDSC-CUMMINS-X-GDSC-MMCOE/tree/main/Matplotlib) <br>
+   [MindsDB](https://github.com/Google-Developer-Student-Club-CCOEW/AIML-2023-GDSC-CUMMINS-X-GDSC-MMCOE/tree/main/MindsDB) <br>
+   [Wiz-craft](https://github.com/Google-Developer-Student-Club-CCOEW/AIML-2023-GDSC-CUMMINS-X-GDSC-MMCOE/tree/main/Wiz-craft) <br>
+   [scalarflow](https://github.com/Google-Developer-Student-Club-CCOEW/AIML-2023-GDSC-CUMMINS-X-GDSC-MMCOE/tree/main/scalarflow)
+<br> Once your pull request is **merged or accepted to hacktoberfest**, append a link to your contribution along with your github id to the tracker.txt file in the specific folders above.
+   
+11. ***Congratulations!***  🎉 Sit and relax, you've made your contribution to the AIML repository of GDSC Cummins under Hacktoberfest 2023.  🌟
