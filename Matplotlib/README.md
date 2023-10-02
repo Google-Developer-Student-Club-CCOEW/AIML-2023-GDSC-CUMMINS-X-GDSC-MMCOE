@@ -5,9 +5,9 @@ Welcome to the Hacktoberfest open-source contribution hosted by Matplotlib, in c
 ## Contribution Guidelines
 
 1. **Issue Links**: To get started, please choose an issue from our list of open issues that you would like to work on. You can find the list of issues here:
-   - [Issue 1](https://github.com/matplotlib/matplotlib/issues?q=is%3Aopen+is%3Aissue+label%3A%22Difficulty%3A+Easy%22)
-   - [Issue 2](https://github.com/matplotlib/matplotlib/issues?q=is%3Aopen+is%3Aissue+label%3A%22Difficulty%3A+Medium%22)
-   - [Issue 3](https://github.com/matplotlib/matplotlib/issues?q=is%3Aopen+is%3Aissue+label%3A%22Difficulty%3A+Hard%22)
+   - [Easy Issues](https://github.com/matplotlib/matplotlib/issues?q=is%3Aopen+is%3Aissue+label%3A%22Difficulty%3A+Easy%22)
+   - [Medium Issues](https://github.com/matplotlib/matplotlib/issues?q=is%3Aopen+is%3Aissue+label%3A%22Difficulty%3A+Medium%22)
+   - [Hard Issues](https://github.com/matplotlib/matplotlib/issues?q=is%3Aopen+is%3Aissue+label%3A%22Difficulty%3A+Hard%22)
 
 2. **Claim an Issue**: Leave a comment on the chosen issue, indicating that you are interested in working on it. This helps prevent duplicate work and lets others know that the issue is being actively addressed.
 
