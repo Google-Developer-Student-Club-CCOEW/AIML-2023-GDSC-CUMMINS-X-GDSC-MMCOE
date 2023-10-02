@@ -1,4 +1,4 @@
-# Tracker
+# Haystack Tracker
 
 ## Format
 Please make sure to follow the following format:
