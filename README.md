@@ -75,6 +75,6 @@ If you are contributing to any of the following repositories: <br>
    [MindsDB](https://github.com/Google-Developer-Student-Club-CCOEW/AIML-2023-GDSC-CUMMINS-X-GDSC-MMCOE/tree/main/MindsDB) <br>
    [Wiz-craft](https://github.com/Google-Developer-Student-Club-CCOEW/AIML-2023-GDSC-CUMMINS-X-GDSC-MMCOE/tree/main/Wiz-craft) <br>
    [scalarflow](https://github.com/Google-Developer-Student-Club-CCOEW/AIML-2023-GDSC-CUMMINS-X-GDSC-MMCOE/tree/main/scalarflow)
-<br> Once your pull request is **merged or accepted to hacktoberfest**, append a link to your contribution along with your github id to the tracker.txt file in the specific folders above.
+<br> Once your pull request is **merged or accepted to hacktoberfest**, append a link to your contribution along with your github id to the tracker.md file in the specific folders above.
    
 11. ***Congratulations!***  🎉 Sit and relax, you've made your contribution to the AIML repository of GDSC Cummins under Hacktoberfest 2023.  🌟
